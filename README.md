@@ -1,7 +1,7 @@
 Banner of the website 
 
 ```
-npm install
+npm install anthillviz
 ```
 
 then 

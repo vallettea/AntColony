@@ -1,5 +1,5 @@
 {
-  "name": "AntColony",
+  "name": "anthillviz",
   "version": "0.1.0",
   "description": "A ant colony simulation for our website",
   "main": "index.js",
@@ -10,7 +10,7 @@
     "build-dev": "browserify example/start.js -o example/app.js -d -v",
     "watch-dev": "watchify example/start.js -o example/app.js -d -v"
   },
-  "author": "Alexandre Vallette",
+  "author": "Alexandre Vallette, Romain Crestey",
   "license": "MIT",
   "dependencies": {
     "delaunay-triangulate": "^1.1.6",
